@@ -33,7 +33,7 @@ A "TV guide" website that uses an API, and few pages to display what is currentl
 
 [LIVE SITE](https://tv-guide-austinparvin.netlify.app/)
 
-![TV Guide Live Site](http://g.recordit.co/Tbe3Esdlb3.gif)
+![TV Guide Live Site](http://g.recordit.co/vWwo4XTyP1.gif)
 
 ## Featured Code
 
