@@ -17,8 +17,6 @@ A "TV guide" website that uses an API, and few pages to display what is currentl
 
 - [API INTEGRATION](https://sdg-words.herokuapp.com/api/words/random)
 
-- [NETLIFY](https://docs.netlify.com/?_ga=2.56383019.1272475466.1587169866-1421079835.1583768648)
-
 # Requirements 
 
 - Use [The Movie Db API](https://developers.themoviedb.org/3/getting-started/introduction) 
