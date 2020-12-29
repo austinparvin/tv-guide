@@ -24,8 +24,6 @@ A "TV guide" website that uses an API, and few pages to display what is currentl
   - the list of all "Top Rated" TV shows, returned from this API `https://api.themoviedb.org/3/tv/top_rated?api_key=<<api_key>>&language=en-US&page=1`
   - this page should also highlight a random "Top Rated" TV show at the top of the page
 - Create a `/tv/:showId page` that shows all the details for a given show and the cast of the show. The cast and crew end point is `https://api.themoviedb.org/3/tv/{tv_id}/credits?api_key=<<api_key>>&language=en-US`
-- Use this API to get your random word
-- If the snowman is completed (counter reaches 7) before the word is completed, the player loses, and the snowman wins
  
 ## Live Site
 
